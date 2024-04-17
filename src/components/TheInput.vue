@@ -1,12 +1,13 @@
-<script setup>
+<script setup lang= 'ts'>
+
 const { modelValue } = defineModels<{
   modelValue: string
 }>()
 
 function foo() {
-
   const a = 1
 }
+
 </script>
 
 <template>
@@ -28,3 +29,4 @@ function foo() {
   .sdfo {
     asdf: green;
   }
+</style>
