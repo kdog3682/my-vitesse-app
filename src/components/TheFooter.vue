@@ -4,7 +4,6 @@ import { availableLocales, loadLanguageAsync } from '~/modules/i18n'
 const { t, locale } = useI18n()
 
 async function toggleLocales() {
-  // change to some real logic
   const locales = availableLocales
   const newLocale = locales[(locales.indexOf(locale.value) + 1) % locales.length]
   await loadLanguageAsync(newLocale)
@@ -28,6 +27,18 @@ async function toggleLocales() {
 
     <RouterLink icon-btn to="/about" :title="t('button.about')" data-test-id="about">
       <div i-carbon-dicom-overlay />
+    </RouterLink>
+
+    <RouterLink icon-btn to="/test" :title="t('button.about')" data-test-id="about">
+      <div i-carbon-dicom-overlay />
+    </RouterLink>
+
+    <RouterLink icon-btn to="/merch" title="merch" data-test-id="merch">
+      <div i-carbon-sun dark:i-carbon-moon />
+    </RouterLink>
+
+    <RouterLink icon-btn to="/cart" title="cart" data-test-id="cart">
+        <div i-carbon-sun/>
     </RouterLink>
 
     <a icon-btn rel="noreferrer" href="https://github.com/antfu/vitesse" target="_blank" title="GitHub">

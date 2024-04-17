@@ -23,3 +23,7 @@ export const createApp = ViteSSG(
     // ctx.app.use(Previewer)
   },
 )
+// const store = createPinia();
+// import Preview from 'vite-plugin-vue-component-preview/client';
+// a/pp.use(Preview)
+// app.use(store)

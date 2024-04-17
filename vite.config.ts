@@ -1,3 +1,4 @@
+// import Preview from 'vite-plugin-vue-component-preview';
 import path from 'node:path'
 import { defineConfig } from 'vite'
 import Vue from '@vitejs/plugin-vue'
@@ -15,6 +16,7 @@ import Unocss from 'unocss/vite'
 import Shiki from '@shikijs/markdown-it'
 import WebfontDownload from 'vite-plugin-webfont-dl'
 import VueRouter from 'unplugin-vue-router/vite'
+
 import { VueRouterAutoImports } from 'unplugin-vue-router'
 
 export default defineConfig({
@@ -23,8 +25,9 @@ export default defineConfig({
       '~/': `${path.resolve(__dirname, 'src')}/`,
     },
   },
-
   plugins: [
+    // Preview(), 
+    // not too sure what this does
     VueMacros({
       plugins: {
         vue: Vue({
@@ -92,7 +95,7 @@ export default defineConfig({
         md.use(await Shiki({
           defaultColor: false,
           themes: {
-            light: 'vitesse-light',
+            light: 'nord',
             dark: 'vitesse-dark',
           },
         }))
@@ -146,6 +149,8 @@ export default defineConfig({
   // https://github.com/vitest-dev/vitest
   test: {
     include: ['test/**/*.test.ts'],
+    globals: true, 
+    // so you dont have to write it() and expect() as imports
     environment: 'jsdom',
   },
 

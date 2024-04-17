@@ -1,7 +1,12 @@
-<script setup lang="ts">
+<script setup>
 const { modelValue } = defineModels<{
   modelValue: string
 }>()
+
+function foo() {
+
+  const a = 1
+}
 </script>
 
 <template>
@@ -18,3 +23,8 @@ const { modelValue } = defineModels<{
     outline="none active:none"
   >
 </template>
+
+<style>
+  .sdfo {
+    asdf: green;
+  }

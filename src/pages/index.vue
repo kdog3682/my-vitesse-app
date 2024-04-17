@@ -1,21 +1,30 @@
 <script setup lang="ts">
-defineOptions({
-  name: 'IndexPage',
-})
+
+import { availableLocales, loadLanguageAsync } from '~/modules/i18n'
+const { t, locale } = useI18n()
+
 const user = useUserStore()
 const name = ref(user.savedName)
+const langs = ['en', 'zh-CN', 'vi', 'fr']
 
+for (let lang of langs) {
+     loadLanguageAsync(lang)
+}
 const router = useRouter()
+async function languageLoader(value) {
+    await loadLanguageAsync(value)
+
+    locale.value = newLocale
+}
 function go() {
   if (name.value)
     router.push(`/hi/${encodeURIComponent(name.value)}`)
 }
 
-const { t } = useI18n()
 </script>
 
 <template>
-  <div>
+    <div bg-amber>
     <div text-4xl>
       <div i-carbon-campsite inline-block />
     </div>
@@ -47,6 +56,15 @@ const { t } = useI18n()
         {{ t('button.go') }}
       </button>
     </div>
+  </div>
+
+  <div class="locale-changer" bg-red>
+    <select v-model="locale">
+      <option px-5 v-for="(lang, i) in langs" :key="`Lang${i}`" :value="lang">
+        {{ lang }}
+      </option>
+    </select>
+    <pre> {{locale}}</pre>
   </div>
 </template>
 
