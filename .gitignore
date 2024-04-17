@@ -3,7 +3,9 @@
 .vite-ssg-temp
 *.local
 dist-ssr
+.vite-dist-ssr
 node_modules
 .idea/
 *.log
 cypress/downloads
+*boo
