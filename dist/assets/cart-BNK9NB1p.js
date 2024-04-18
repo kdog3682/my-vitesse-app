@@ -1,0 +1,1 @@
+import{H as a,p as c,I as d}from"./app-D-EK3ymx.js";const n=a("cart",()=>{const e=c([]),o=d(()=>[...e.value].sort((t,s)=>s.id-t.id));return{cartItems:e,sortedItems:o,addItems:t=>{e.value.find(r=>r.id===t.id)||e.value.push(t)},removeItems:t=>{e.value=e.value.filter(s=>s.id!==t)}}});export{n as u};

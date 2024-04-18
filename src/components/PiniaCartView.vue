@@ -1,4 +1,18 @@
 <script setup>
+        function importer(kind) {
+            switch (kind) {
+                case 'images': return ref(import.meta.glob('../resources/images/*', {query: '?url', import: 'default', eager: true}))
+                case 'data': return ref(import.meta.glob('../resources/data/*', {import: 'default', eager: true}))
+                case 'raw': return ref(import.meta.glob('../resources/raw/*', {query: '?raw', import: 'default', eager: true}))
+            }
+        }
+
+
+    const images = importer('images')
+        console.log(images.value)
+    const raw = importer('raw')
+    const data = importer('data')
+
     import { useCartStore } from '../stores/cart.ts'
     import { storeToRefs } from 'pinia'
     const store = useCartStore()
@@ -14,6 +28,13 @@
     </div>
   </main>
   <main v-else>
+            <div v-for = "imageSrc in images">
+            <pre>{{imageSrc}}</pre>
+                <img :src = "imageSrc" />
+            </div>
+        <pre v-for = "val in data">{{val}}</pre>
+            ---
+        <pre v-for = "val in raw">{{val}}</pre>
     <h2>There is nothing in your cart</h2>
   </main>
 </template>

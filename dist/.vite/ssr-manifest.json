@@ -8,11 +8,11 @@
   "\u0000vite/modulepreload-polyfill.js": [],
   "\u0000vite/preload-helper.js": [],
   "../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register-R82F7gi5.js"
+    "/assets/virtual_pwa-register-CdOOtg0c.js"
   ],
   "../../../__uno.css": [],
   "../../../vue-macros/define-models/use-vmodel": [
-    "/assets/index-BGp5mrdJ.js",
+    "/assets/index-DyAbQzZW.js",
     "/assets/index-DW-TYykZ.css"
   ],
   "assets/app-!~{001}~.js-unocss-hash.css": [],
@@ -100,39 +100,52 @@
   ],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
   "src/components/PiniaCartView.vue": [
-    "/assets/cart-B72-tRku.js"
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
   ],
   "src/components/PiniaHomeView.vue": [
-    "/assets/merch-BFAp5W7f.js",
+    "/assets/merch-ZIay0NpS.js",
     "/assets/merch-CdBaidCy.css"
   ],
   "src/components/PiniaHomeView.vue?vue&type=style&index=0&lang.css": [
-    "/assets/merch-BFAp5W7f.js",
+    "/assets/merch-ZIay0NpS.js",
     "/assets/merch-CdBaidCy.css"
   ],
   "src/components/TheFooter.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/TheFooter.vue_vue_type_script_setup_true_lang-W5VjimYg.js"
+    "/assets/TheFooter.vue_vue_type_script_setup_true_lang-DwCyg_i3.js"
   ],
   "src/components/TheInput.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index-BGp5mrdJ.js",
+    "/assets/index-DyAbQzZW.js",
     "/assets/index-DW-TYykZ.css"
   ],
   "src/components/TheInput.vue?vue&type=style&index=0&lang.css": [
-    "/assets/index-BGp5mrdJ.js",
+    "/assets/index-DyAbQzZW.js",
     "/assets/index-DW-TYykZ.css"
   ],
   "src/composables/dark.ts": [],
   "src/layouts/404.vue": [
-    "/assets/404-BgNQnJy1.js"
+    "/assets/404-Bl9eb2sF.js"
   ],
   "src/layouts/404.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/404-BgNQnJy1.js"
+    "/assets/404-Bl9eb2sF.js"
   ],
   "src/layouts/default.vue": [
-    "/assets/default-DMmuRciS.js"
+    "/assets/default-CbrSiSpH.js"
   ],
   "src/layouts/home.vue": [
-    "/assets/home-xx-zfy_7.js"
+    "/assets/home-Ny8d48QN.js"
   ],
   "src/main.ts": [],
   "src/modules/i18n.ts": [],
@@ -140,46 +153,347 @@
   "src/modules/pinia.ts": [],
   "src/modules/pwa.ts": [],
   "src/pages/README.md": [
-    "/assets/README-BMlgD3ET.js"
+    "/assets/README-Bw73CdNu.js"
   ],
   "src/pages/[...all].vue": [
-    "/assets/_...all_-BaAl9duu.js"
+    "/assets/_...all_-4YEPvJ2H.js"
   ],
   "src/pages/[...all].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_...all_-BaAl9duu.js"
+    "/assets/_...all_-4YEPvJ2H.js"
   ],
   "src/pages/about.md": [
-    "/assets/about-iqM6RtmX.js"
+    "/assets/about-B2GFmdqA.js"
   ],
   "src/pages/cart.vue": [
-    "/assets/cart-B72-tRku.js"
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
   ],
   "src/pages/hi/[name].vue": [
-    "/assets/_name_-CcU6FpBM.js"
+    "/assets/_name_-DqWFVKbW.js"
   ],
   "src/pages/hi/[name].vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/_name_-CcU6FpBM.js"
+    "/assets/_name_-DqWFVKbW.js"
   ],
   "src/pages/index.vue": [
-    "/assets/index-BGp5mrdJ.js",
+    "/assets/index-DyAbQzZW.js",
     "/assets/index-DW-TYykZ.css"
   ],
   "src/pages/index.vue?vue&type=script&setup=true&lang.ts": [
-    "/assets/index-BGp5mrdJ.js",
+    "/assets/index-DyAbQzZW.js",
     "/assets/index-DW-TYykZ.css"
   ],
   "src/pages/merch.vue": [
-    "/assets/merch-BFAp5W7f.js",
+    "/assets/merch-ZIay0NpS.js",
     "/assets/merch-CdBaidCy.css"
   ],
   "src/pages/test.md": [
-    "/assets/test-DPt1vvau.js"
+    "/assets/test-Vdv7eKnL.js"
+  ],
+  "src/resources/data/comment.json": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
+  ],
+  "src/resources/data/comment.nvim.json": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
+  ],
+  "src/resources/data/javascript-inoreab.json": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
+  ],
+  "src/resources/images/Screenshot 2024-02-23 5.37.34 PM.png?url": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
+  ],
+  "src/resources/images/Screenshot 2024-03-29 7.23.56 PM.png?url": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
+  ],
+  "src/resources/images/Screenshot 2024-03-29 7.24.15 PM.png?url": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
+  ],
+  "src/resources/images/Screenshot 2024-03-29 7.24.41 PM.png?url": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
+  ],
+  "src/resources/images/Screenshot 2024-03-29 7.24.50 PM.png?url": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
+  ],
+  "src/resources/images/Screenshot 2024-03-29 7.25.01 PM.png?url": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
+  ],
+  "src/resources/images/Screenshot 2024-03-29 7.25.12 PM.png?url": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
+  ],
+  "src/resources/images/Screenshot 2024-03-29 7.25.25 PM.png?url": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
+  ],
+  "src/resources/images/Screenshot 2024-04-03 10.31.08 PM.png?url": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
+  ],
+  "src/resources/images/greg-rakozy-oMpAz-DN-9I-unsplash.jpg?url": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
+  ],
+  "src/resources/images/jordan-wozniak-xP_AGmeEa6s-unsplash.jpg?url": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
+  ],
+  "src/resources/images/joseph-barrientos-oQl0eVYd_n8-unsplash.jpg?url": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
+  ],
+  "src/resources/images/kirsten-frank-7LDcvZbEPQs-unsplash.jpg?url": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
+  ],
+  "src/resources/raw/abc.md?raw": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
+  ],
+  "src/resources/raw/abc.txt?raw": [
+    "/assets/cart-YHubK1RV.js",
+    "/assets/Screenshot 2024-02-23 5.37.34 PM-psvv1EOA.png",
+    "/assets/Screenshot 2024-03-29 7.23.56 PM-BWw2rnOt.png",
+    "/assets/Screenshot 2024-03-29 7.24.15 PM-BdNq-0G6.png",
+    "/assets/Screenshot 2024-03-29 7.24.41 PM-74R94K7C.png",
+    "/assets/Screenshot 2024-03-29 7.24.50 PM-Dwg8UkBd.png",
+    "/assets/Screenshot 2024-03-29 7.25.01 PM-Cb564PIb.png",
+    "/assets/Screenshot 2024-03-29 7.25.12 PM-BgLCxI0Z.png",
+    "/assets/Screenshot 2024-03-29 7.25.25 PM-CJ2xplzy.png",
+    "/assets/Screenshot 2024-04-03 10.31.08 PM-7Mty2KYj.png",
+    "/assets/greg-rakozy-oMpAz-DN-9I-unsplash-DusxaUm4.jpg",
+    "/assets/jordan-wozniak-xP_AGmeEa6s-unsplash-Dbqyq6Z0.jpg",
+    "/assets/joseph-barrientos-oQl0eVYd_n8-unsplash-BCU4fhzR.jpg",
+    "/assets/kirsten-frank-7LDcvZbEPQs-unsplash-C73KN5dW.jpg"
   ],
   "src/stores/cart.ts": [
-    "/assets/cart-0MpuTMJe.js"
+    "/assets/cart-BNK9NB1p.js"
   ],
   "src/stores/user.ts": [
-    "/assets/user-DdkZKVY2.js"
+    "/assets/user-CvBJsvmr.js"
   ],
   "src/styles/main.css": [],
   "virtual:/vue-router/auto/route-block": [

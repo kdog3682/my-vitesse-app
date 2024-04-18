@@ -1,0 +1,1 @@
+import{H as m,p as r,I as t}from"./app-D-EK3ymx.js";const l=m("user",()=>{const e=r(""),s=r(new Set),o=t(()=>Array.from(s.value)),u=t(()=>o.value.filter(a=>a!==e.value));function n(a){e.value&&s.value.add(e.value),e.value=a}return{setNewName:n,otherNames:u,savedName:e}});export{l as u};
